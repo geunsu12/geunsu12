@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Geunsu+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Geunsu's+GitHub!👋)](https://git.io/typing-svg)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=geunsu12&include_all_commits=true&theme=tokyonight&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunsu12&include_all_commits=true&layout=compact&theme=tokyonight" />
 
-
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imgs)](https://solved.ac/imgs/)
 
 <div align="left">
 
 <br>
-
 
 ## 🔨 Once I've used 🔨
 
@@ -45,7 +44,16 @@
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+    </div><br>
+    <!-- Tools -->
+    <p><strong>Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+        <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=visualstudio&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"> 
+    </div><br>
 </div><br>
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunsu12&count_bg=%2308AEEE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
