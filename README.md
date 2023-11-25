@@ -35,7 +35,6 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div><br>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
